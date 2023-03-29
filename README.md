@@ -33,7 +33,8 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
-/*
+```
+
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: LOGESHWARI.P
 RegisterNumber: 212221230055 
@@ -58,10 +59,7 @@ endmodule
 
 Logic symbol & Truthtable
 RTL realization
-
-*/
-Logic symbol & Truthtable
-RTL realization
+```
 
 ### Output:
 ![DE3C](https://user-images.githubusercontent.com/94211349/228434788-814ea11a-8a0a-4c16-ae92-6888e168176f.png)
