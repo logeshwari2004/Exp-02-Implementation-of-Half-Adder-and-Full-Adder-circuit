@@ -69,9 +69,9 @@ RTL realization
 
 ### TIMING DIAGRAM
 ![DE3E](https://user-images.githubusercontent.com/94211349/228434950-63727fd1-7e0d-40f7-a7a4-b4d323553ce0.png)
-
+ADDER
 ![DE3G](https://user-images.githubusercontent.com/94211349/228434973-80947ddb-94f4-4a5c-bd7c-4936d2deb145.png)
-
+RTI REALISATION
 ![DE3H](https://user-images.githubusercontent.com/94211349/228434984-8682db5c-e74d-4e8e-bc27-65be6f44f272.png)
 
 ### TIMING DIAGRAM
